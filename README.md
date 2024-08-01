@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Ana Julia Bisetto
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,9 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+00001104594778sp@al.educacao.sp.gov.br
 
-@marcelopaludetto
 
-![descrição do GIF](link GIF do Tenor)
+
+![descrição do GIF]((![goma-happy](https://github.com/user-attachments/assets/6f5582f2-3784-4d83-8912-ba7e141a4dbb))
+
